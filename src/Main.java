@@ -20,5 +20,6 @@ public class Main {
         iphone.selecionarMusica("queen - we will rock you");
         iphone.tocar();
         iphone.pausar();
+
     }
 }
